@@ -1,0 +1,50 @@
+.wrap{
+	min-width: 600px;
+	width: 80%
+	margin:auto;
+}
+
+.content {
+	height: 700px;
+}
+
+.content{
+	float: left; 
+	width: 80%;
+}
+
+aside{
+	background: #DFE1E5; 
+	float: left;
+	width: 20%;
+	height: 800px;
+	margin-top: -100px;
+	padding-top: 100px
+}
+aside h2{
+	margin-left: 25px;
+	color:#BF2600
+}
+
+aside ul{
+	list-style: none;
+	padding-left: 0
+}
+aside li{
+	margin: 20px;
+	padding: 5px;
+	transition:background-color 0.2s ease-in-out;
+}
+aside li:hover{
+	background: orange
+}
+body{
+	background-color: #172B4D;
+	color: #FFFFFF
+}
+h1{
+	color: #BF2600
+}
+h2{
+	color: #BF2600
+}
