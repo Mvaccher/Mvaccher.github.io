@@ -48,3 +48,9 @@ h1{
 h2{
 	color: #BF2600
 }
+img{
+	width: 400px
+}
+.current{
+	background-color: orange
+}
